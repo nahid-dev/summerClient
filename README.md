@@ -30,4 +30,4 @@
 - # Admin info:
 
 - email: russel@mail.com
--pass: Russel@123
+- pass: Russel@123
